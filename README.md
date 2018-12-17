@@ -1,1 +1,1 @@
-# <img src="logo.png" alt="harvit" width="400px">
+# <img src="logo.png" alt="harvit" width="300px">
